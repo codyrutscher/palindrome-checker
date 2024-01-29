@@ -1,0 +1,19 @@
+#text-input {
+  height: 100px;
+  width: 200px; 
+  background-color: red;
+}
+
+#check-btn {
+  height: 100px;
+  background-color: grey;
+}
+
+h1 {
+  display: flex;
+
+}
+
+body {
+  background-color: #ff2
+}
